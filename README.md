@@ -54,6 +54,15 @@ Puedes consultar la documentación completa en formato PDF en el siguiente enlac
 Ambos métodos tienen fortalezas específicas, pero podrían combinarse en modelos híbridos para aprovechar sus ventajas. El desarrollo de algoritmos no lineales es una dirección prometedora para superar las limitaciones actuales y mejorar la calidad del procesamiento de imágenes en condiciones de iluminación difíciles.
 
 ---
+
+## **Referencia al conjunto de datos**  
+
+Yang, Wenhan, Yuan, Ye, Ren, Wenqi, Liu, Jiaying, Scheirer, Walter J., Wang, Zhangyang, Zhang, and et al. (2020).  
+*Advancing Image Understanding in Poor Visibility Environments: A Collective Benchmark Study.*  
+IEEE Transactions on Image Processing, 29, 5737-5752.  
+DOI: [10.1109/TIP.2020.2981922](https://doi.org/10.1109/TIP.2020.2981922)  
+
+---
 ---
 
 # English:
@@ -111,4 +120,13 @@ You can find the full documentation in PDF format at the following link:
 2. **Global Adjustment**: Better suited for human viewing, prioritizing tonal balance and naturalness.  
 
 Both methods have specific strengths, but combining them into hybrid models could leverage their advantages. Developing non-linear algorithms is a promising direction to overcome current limitations and improve the quality of image processing under challenging lighting conditions.
+
+---
+
+## **Dataset Citation**  
+
+Yang, Wenhan, Yuan, Ye, Ren, Wenqi, Liu, Jiaying, Scheirer, Walter J., Wang, Zhangyang, Zhang, and et al. (2020).  
+*Advancing Image Understanding in Poor Visibility Environments: A Collective Benchmark Study.*  
+IEEE Transactions on Image Processing, 29, 5737-5752.  
+DOI: [10.1109/TIP.2020.2981922](https://doi.org/10.1109/TIP.2020.2981922)  
 
